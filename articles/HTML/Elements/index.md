@@ -78,3 +78,4 @@ Here's an example of a page with a [head element](#), a [body element](#), and o
 - [HTML Head](#)
 - [HTML Body](#)
 - [HTML DOCTYPE](#)
+- [HTML Guide](http://htmlreference.io) - features all elements and attributes.
