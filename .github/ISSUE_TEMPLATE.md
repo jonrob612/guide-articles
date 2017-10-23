@@ -7,4 +7,4 @@
 
 
 #### Other Resources
-<!-- Please include any other guide articles, freeCodeCamp YouTube videos, Forum posts, or other resources that your articles references -->
+Great GIT resource  https://www.learnenough.com/git-tutorial#sec-installation_and_setup
